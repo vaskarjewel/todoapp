@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-/vendor
-/node_modules
-.env
-=======
 vendor/
 node_modules/
+
+#IDE
+.idea
 
 # Laravel 4 specific
 bootstrap/compiled.php
@@ -18,4 +16,3 @@ bootstrap/cache/
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
->>>>>>> c5a6d0b9746e71a2a6e427d8a4424d2acf2f0eb2
